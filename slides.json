@@ -1,0 +1,274 @@
+[
+  {
+    "slide_number": 1,
+    "slide_type": "other",
+    "type_confidence": 0.5,
+    "title": "+ Dropbox Moving the world\u2019s files http: //www.getdropbox.com",
+    "raw_text": "+ Dropbox Moving the world\u2019s files http: //www.getdropbox.com",
+    "metrics": {},
+    "charts_detected": false,
+    "image_paths": [
+      "./output\\images\\slide_1.jpg"
+    ]
+  },
+  {
+    "slide_number": 2,
+    "slide_type": "other",
+    "type_confidence": 0.5,
+    "title": "Storage is a mess",
+    "raw_text": "Storage is a mess",
+    "metrics": {},
+    "charts_detected": false,
+    "image_paths": [
+      "./output\\images\\slide_2.jpg"
+    ]
+  },
+  {
+    "slide_number": 3,
+    "slide_type": "team",
+    "type_confidence": 1.0,
+    "title": null,
+    "raw_text": "It\u2019s 2007, and it\u2019s still a pain to... \u00a2Work on multiple computers e Share files across a team \u00a2e Put photos, video onto the web \u00a2 Protect files from loss",
+    "metrics": {
+      "years": [
+        "20"
+      ]
+    },
+    "charts_detected": true,
+    "image_paths": [
+      "./output\\images\\slide_3.jpg"
+    ]
+  },
+  {
+    "slide_number": 4,
+    "slide_type": "solution",
+    "type_confidence": 1.0,
+    "title": null,
+    "raw_text": "What are people doing now? e Email attachments e USB drives \u00a2e Browser uploads e Piecemeal solutions",
+    "metrics": {},
+    "charts_detected": true,
+    "image_paths": [
+      "./output\\images\\slide_4.jpg"
+    ]
+  },
+  {
+    "slide_number": 5,
+    "slide_type": "other",
+    "type_confidence": 0.5,
+    "title": null,
+    "raw_text": "In a perfect world... e Your files available wherever you are, on any device e Never worry about losing data, can always undo e Sharing, putting media onto the web is drag-and-drop",
+    "metrics": {},
+    "charts_detected": false,
+    "image_paths": [
+      "./output\\images\\slide_5.jpg"
+    ]
+  },
+  {
+    "slide_number": 6,
+    "slide_type": "other",
+    "type_confidence": 0.5,
+    "title": null,
+    "raw_text": "Dropbox \u00a2 Keeps files: e In sync across computers \u00a2 Backed up \u00a2\u00ab Accessible from anywhere e Easy to share elt just works",
+    "metrics": {},
+    "charts_detected": true,
+    "image_paths": [
+      "./output\\images\\slide_6.jpg"
+    ]
+  },
+  {
+    "slide_number": 7,
+    "slide_type": "other",
+    "type_confidence": 0.5,
+    "title": null,
+    "raw_text": "+\u00bb Dropbox = ver o~- a f\u2014 om & ee ne mee ey men age pret = wo & (Ppen o hhaee Chownped nether the Bete Bue Comare Arcieve of Genretind pot Cony Ceiweted pat Cres Lew",
+    "metrics": {},
+    "charts_detected": true,
+    "image_paths": [
+      "./output\\images\\slide_7.jpg"
+    ]
+  },
+  {
+    "slide_number": 8,
+    "slide_type": "team",
+    "type_confidence": 1.0,
+    "title": null,
+    "raw_text": "Why now? \u00a2 Lots of devices, bigger files, more content \u00a2 Increasingly distributed/remote teams \u00a2 Falling bandwidth, storage prices \u00a2 Online storage is unclaimed, unmonetized territory, much like search pre-Google",
+    "metrics": {},
+    "charts_detected": true,
+    "image_paths": [
+      "./output\\images\\slide_8.jpg"
+    ]
+  },
+  {
+    "slide_number": 9,
+    "slide_type": "problem",
+    "type_confidence": 1.0,
+    "title": null,
+    "raw_text": "Why better? e Solves the entire genre of storage- related problems with one app \u00a2 Deep OS integration, visual feedback \u00a2 Doesn\u2019t make you change the way you work \u00a2 Open APIs to link desktop & web applications",
+    "metrics": {},
+    "charts_detected": true,
+    "image_paths": [
+      "./output\\images\\slide_9.jpg"
+    ]
+  },
+  {
+    "slide_number": 10,
+    "slide_type": "competition",
+    "type_confidence": 1.0,
+    "title": null,
+    "raw_text": "Sync Backup Sharing OS integration Web access Versioning Competitors \u00bb\u00ab Dropbox Carbonite, Mozy Foldershare box.net",
+    "metrics": {},
+    "charts_detected": false,
+    "image_paths": [
+      "./output\\images\\slide_10.jpg"
+    ]
+  },
+  {
+    "slide_number": 11,
+    "slide_type": "problem",
+    "type_confidence": 1.0,
+    "title": null,
+    "raw_text": "What did they screw up? e Only tackle small pieces of the problem \u00a2 Poor technical execution e Clumsy, verbose & technical Uls; require configuration e Lack of distribution, partners",
+    "metrics": {},
+    "charts_detected": true,
+    "image_paths": [
+      "./output\\images\\slide_11.jpg"
+    ]
+  },
+  {
+    "slide_number": 12,
+    "slide_type": "roadmap",
+    "type_confidence": 1.0,
+    "title": null,
+    "raw_text": "Technical advantages \u00a2 Client & server written in Python: 5- 10x faster development time e Leverage Amazon S3, EC2 to achieve scale & reliability \u00a2e Obsession with performance e Seamless compression, encryption, binary diffing, failure recovery",
+    "metrics": {},
+    "charts_detected": true,
+    "image_paths": [
+      "./output\\images\\slide_12.jpg"
+    ]
+  },
+  {
+    "slide_number": 13,
+    "slide_type": "competition",
+    "type_confidence": 0.5,
+    "title": null,
+    "raw_text": "Team \u00a2 Drew Houston - CEO S.B. MIT EECS; first line of code at age 6; first startup gig at 14; founded online SAT prep co after multiple perfect scores \u00a2 Arash Ferdowsi - CTO S.B. MIT EECS (on leave); director of MIT programming competition; prior exp at Google Moving into our first office, 5/14/07",
+    "metrics": {},
+    "charts_detected": false,
+    "image_paths": [
+      "./output\\images\\slide_13.jpg"
+    ]
+  },
+  {
+    "slide_number": 14,
+    "slide_type": "solution",
+    "type_confidence": 0.5,
+    "title": null,
+    "raw_text": "Business model e Individuals: freeemium \u00a2 SMB: shared folder per-seat license (replaces backup, Windows file share, collaboration tools, reduces IT headcount) e Platform: broker all UGC from the desktop to the web",
+    "metrics": {},
+    "charts_detected": false,
+    "image_paths": [
+      "./output\\images\\slide_14.jpg"
+    ]
+  },
+  {
+    "slide_number": 15,
+    "slide_type": "solution",
+    "type_confidence": 0.5,
+    "title": null,
+    "raw_text": "Platform \u00a2 Onramp for all UGC from desktop > web \u00a2e Convenient for users: drag and drop instead of sign-in and browser upload \u00a2 Beneficial for web apps: more content uploaded, less friction & fewer failures \u00a2 Bigger picture: all files in Dropbox, delegate access to web apps",
+    "metrics": {},
+    "charts_detected": true,
+    "image_paths": [
+      "./output\\images\\slide_15.jpg"
+    ]
+  },
+  {
+    "slide_number": 16,
+    "slide_type": "solution",
+    "type_confidence": 0.5,
+    "title": null,
+    "raw_text": "Customer acquisition \u00a2 Loved by early adopters/beta users (natural influencers) \u00a2 Free accounts for individuals \u00a2 Viral elements: file sharing, shared folders, photo/media galleries \u00a2 Platform, partnerships > free customer acquisition",
+    "metrics": {},
+    "charts_detected": true,
+    "image_paths": [
+      "./output\\images\\slide_16.jpg"
+    ]
+  },
+  {
+    "slide_number": 17,
+    "slide_type": "other",
+    "type_confidence": 0.5,
+    "title": null,
+    "raw_text": "e Ranked #1 among summer YC startups: \u201c,.the simplicity and elegance of its interface, which blends seamlessly into both Windows and OS X, sets it apart.\u201d http://venturebeat.com/2007/08/16/the-y- combinator-list/",
+    "metrics": {
+      "years": [
+        "20"
+      ]
+    },
+    "charts_detected": true,
+    "image_paths": [
+      "./output\\images\\slide_17.jpg"
+    ]
+  },
+  {
+    "slide_number": 18,
+    "slide_type": "other",
+    "type_confidence": 0.5,
+    "title": null,
+    "raw_text": "Map the bullets to slide headers. Each bullet is a slide, ~\u2014* Tap down and reed it. Do you get the story with no other content?",
+    "metrics": {},
+    "charts_detected": false,
+    "image_paths": [
+      "./output\\images\\slide_18.jpg"
+    ]
+  },
+  {
+    "slide_number": 19,
+    "slide_type": "problem",
+    "type_confidence": 1.0,
+    "title": null,
+    "raw_text": "Compelling content Engage the header with doto. Ah are ss Emotive Reduce imagery text less is MORE here. It's also faster to write! You need to know how to talk (sell) to the slides. Spend time practicing instead of writing an essay Support your story You can use a sub header to support Add body content with 3-6 supporting points which you fink to Images. These Now you have a story mapped In your header, you need to make it credible. The purpose of everything other than the header is to back up your Claim. This l\u00a2 sales material, Toke thet  Filek Test A concept we invented to tell It your deck works Press down every 5 seconds. Can you understand each slide and the \u2018story\u2019 you are telling (from step 1}?",
+    "metrics": {},
+    "charts_detected": false,
+    "image_paths": [
+      "./output\\images\\slide_19.jpg"
+    ]
+  },
+  {
+    "slide_number": 20,
+    "slide_type": "problem",
+    "type_confidence": 0.5,
+    "title": null,
+    "raw_text": "We Love Our Job Let us help Why waste 6 months with an ineffective deck? Invest In time, They aren't making any more of It, We've supported founders for years with free content, The impact wasn't enough Fundraising is a bitch, We've been through It. We founded Perfect Pitch Deck not just to make money, We founded it because it solves a problem for millions ot founders dealing with the same crazy, pointiess crap. Pitch decks are hard as you need specialty knowledge, ONLY to get the cash you need to grow, it doesnt make your startup, It should be easier. Now it is. Get Perfect Pitch Deck does one thing Pitch decks. As ex-VCs we know how te raise and what VGs wont, As founders we care about you (because we know how much raising sucks)",
+    "metrics": {},
+    "charts_detected": false,
+    "image_paths": [
+      "./output\\images\\slide_20.jpg"
+    ]
+  },
+  {
+    "slide_number": 21,
+    "slide_type": "other",
+    "type_confidence": 0.5,
+    "title": "a Perfect y Pitch Deck",
+    "raw_text": "a Perfect y Pitch Deck",
+    "metrics": {},
+    "charts_detected": false,
+    "image_paths": [
+      "./output\\images\\slide_21.jpg"
+    ]
+  },
+  {
+    "slide_number": 22,
+    "slide_type": "other",
+    "type_confidence": 0.5,
+    "title": null,
+    "raw_text": "Want more VC/investment startup pitch decks? We've centralised ALL successful investor pitch decks at: www.chagency.co.uk/getstartupfunding This has been made by chagency _ A design agency that helps SaaS CEOs reduce user churn. We write daily on this topic here: www.chagency.co.uk/blog W twitter.com/chddaniel in linkedin.com/in/chddaniel oe chdaniel.com/youtube More: Chdaniel.com",
+    "metrics": {},
+    "charts_detected": false,
+    "image_paths": [
+      "./output\\images\\slide_22.jpg"
+    ]
+  }
+]

@@ -1,0 +1,148 @@
+{
+  "title": "+ Dropbox Moving the world\u2019s files http: //www.getdropbox.com",
+  "duration_estimate": 145.0,
+  "narrative_script": [
+    {
+      "section": "introduction",
+      "narration": "Welcome to + Dropbox Moving the world\u2019s files http: //www.getdropbox.com. In this presentation, we'll explore an innovative solution to a significant challenge."
+    },
+    {
+      "section": "problem",
+      "narration": "The problem we're addressing is clear: Why better? e Solves the entire genre of storage- related problems with one app \u00a2 Deep OS integration, visual feedback \u00a2 Doesn\u2019t make you change the way you work \u00a2 Open APIs to link desktop & web applications\nWhat did they screw up? e Only tackle small pieces of the problem \u00a2 Poor technical execution e Clumsy, verbose & technical Uls; require configuration e Lack of distribution, partners\nCompelling content Engage the header with doto.  Ah are ss Emotive Reduce imagery text less is MORE here."
+    },
+    {
+      "section": "solution",
+      "narration": "Our solution is straightforward yet powerful: What are people doing now? e Email attachments e USB drives \u00a2e Browser uploads e Piecemeal solutions\nBusiness model e Individuals: freeemium \u00a2 SMB: shared folder per-seat license (replaces backup, Windows file share, collaboration tools, reduces IT headcount) e Platform: broker all UGC from the desktop to the web\nPlatform \u00a2 Onramp for all UGC from desktop > web \u00a2e Convenient for users: drag and drop instead of sign-in and browser upload \u00a2 Beneficial for web apps: more content uploaded, less friction & fewer failures \u00a2 Bigger picture: all files in Dropbox, delegate access to web apps\nCustomer acquisition \u00a2 Loved by early adopters/beta users (natural influencers) \u00a2 Free accounts for individuals \u00a2 Viral elements: file sharing, shared folders, photo/media galleries \u00a2 Platform, partnerships > free customer acquisition."
+    },
+    {
+      "section": "competition",
+      "narration": "We've analyzed the competitive landscape and identified our unique advantages."
+    },
+    {
+      "section": "team",
+      "narration": "Our team brings together the expertise and experience needed to execute our vision."
+    },
+    {
+      "section": "conclusion",
+      "narration": "Thank you for your attention. We believe our solution addresses a critical need and represents a compelling investment opportunity."
+    }
+  ],
+  "scenes": [
+    {
+      "narrative": "Welcome to + Dropbox Moving the world\u2019s files http: //www.getdropbox.com. In this presentation, we'll explore an innovative solution to a significant challenge.",
+      "duration": 11.0,
+      "slide": {
+        "number": 1,
+        "image_path": "./output\\images\\slide_1.jpg"
+      },
+      "emphasis": [
+        {
+          "type": "key_phrase",
+          "content": "In this presentation, we'll explore an innovative solution to a significant challenge.",
+          "position": "top_center"
+        }
+      ],
+      "transition": "fade"
+    },
+    {
+      "narrative": "The problem we're addressing is clear: Why better? e Solves the entire genre of storage- related problems with one app \u00a2 Deep OS integration, visual feedback \u00a2 Doesn\u2019t make you change the way you work \u00a2 Open APIs to link desktop & web applications\nWhat did they screw up? e Only tackle small pieces of the problem \u00a2 Poor technical execution e Clumsy, verbose & technical Uls; require configuration e Lack of distribution, partners\nCompelling content Engage the header with doto.  Ah are ss Emotive Reduce imagery text less is MORE here.",
+      "duration": 46.0,
+      "slide": {
+        "number": 9,
+        "image_path": "./output\\images\\slide_9.jpg"
+      },
+      "emphasis": [
+        {
+          "type": "key_phrase",
+          "content": "The problem we're addressing is clear: Why better? e Solves the entire genre of storage- related problems with one app \u00a2 Deep OS integration, visual feedback \u00a2 Doesn\u2019t make you change the way you work \u00a2 Open APIs to link desktop & web applications\nWhat did they screw up? e Only tackle small pieces of the problem \u00a2 Poor technical execution e Clumsy, verbose & technical Uls; require configuration e Lack of distribution, partners\nCompelling content Engage the header with doto",
+          "position": "top_center"
+        },
+        {
+          "type": "chart",
+          "content": "Highlight chart",
+          "position": "center"
+        }
+      ],
+      "transition": "fade"
+    },
+    {
+      "narrative": "Our solution is straightforward yet powerful: What are people doing now? e Email attachments e USB drives \u00a2e Browser uploads e Piecemeal solutions\nBusiness model e Individuals: freeemium \u00a2 SMB: shared folder per-seat license (replaces backup, Windows file share, collaboration tools, reduces IT headcount) e Platform: broker all UGC from the desktop to the web\nPlatform \u00a2 Onramp for all UGC from desktop > web \u00a2e Convenient for users: drag and drop instead of sign-in and browser upload \u00a2 Beneficial for web apps: more content uploaded, less friction & fewer failures \u00a2 Bigger picture: all files in Dropbox, delegate access to web apps\nCustomer acquisition \u00a2 Loved by early adopters/beta users (natural influencers) \u00a2 Free accounts for individuals \u00a2 Viral elements: file sharing, shared folders, photo/media galleries \u00a2 Platform, partnerships > free customer acquisition.",
+      "duration": 67.0,
+      "slide": {
+        "number": 4,
+        "image_path": "./output\\images\\slide_4.jpg"
+      },
+      "emphasis": [
+        {
+          "type": "key_phrase",
+          "content": "Our solution is straightforward yet powerful: What are people doing now? e Email attachments e USB drives \u00a2e Browser uploads e Piecemeal solutions\nBusiness model e Individuals: freeemium \u00a2 SMB: shared folder per-seat license (replaces backup, Windows file share, collaboration tools, reduces IT headcount) e Platform: broker all UGC from the desktop to the web\nPlatform \u00a2 Onramp for all UGC from desktop > web \u00a2e Convenient for users: drag and drop instead of sign-in and browser upload \u00a2 Beneficial for web apps: more content uploaded, less friction & fewer failures \u00a2 Bigger picture: all files in Dropbox, delegate access to web apps\nCustomer acquisition \u00a2 Loved by early adopters/beta users (natural influencers) \u00a2 Free accounts for individuals \u00a2 Viral elements: file sharing, shared folders, photo/media galleries \u00a2 Platform, partnerships > free customer acquisition.",
+          "position": "top_center"
+        },
+        {
+          "type": "chart",
+          "content": "Highlight chart",
+          "position": "center"
+        }
+      ],
+      "transition": "fade"
+    },
+    {
+      "narrative": "We've analyzed the competitive landscape and identified our unique advantages.",
+      "duration": 5.0,
+      "slide": {
+        "number": 10,
+        "image_path": "./output\\images\\slide_10.jpg"
+      },
+      "emphasis": [
+        {
+          "type": "key_phrase",
+          "content": "We've analyzed the competitive landscape and identified our unique advantages.",
+          "position": "top_center"
+        }
+      ],
+      "transition": "fade"
+    },
+    {
+      "narrative": "Our team brings together the expertise and experience needed to execute our vision.",
+      "duration": 6.5,
+      "slide": {
+        "number": 3,
+        "image_path": "./output\\images\\slide_3.jpg"
+      },
+      "emphasis": [
+        {
+          "type": "metric",
+          "content": "years: 20",
+          "position": "bottom_right"
+        },
+        {
+          "type": "key_phrase",
+          "content": "Our team brings together the expertise and experience needed to execute our vision.",
+          "position": "top_center"
+        },
+        {
+          "type": "chart",
+          "content": "Highlight chart",
+          "position": "center"
+        }
+      ],
+      "transition": "fade"
+    },
+    {
+      "narrative": "Thank you for your attention. We believe our solution addresses a critical need and represents a compelling investment opportunity.",
+      "duration": 9.5,
+      "slide": {
+        "number": 1,
+        "image_path": "./output\\images\\slide_1.jpg"
+      },
+      "emphasis": [
+        {
+          "type": "key_phrase",
+          "content": "We believe our solution addresses a critical need and represents a compelling investment opportunity.",
+          "position": "top_center"
+        }
+      ],
+      "transition": "fade"
+    }
+  ]
+}
